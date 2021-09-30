@@ -2,6 +2,10 @@
 A lightweight and super fast cli todo program written in rust under 200 sloc
 
 ![gif](todo.gif)
+## changes
+- TODO file now lies in `$XDG_HOME/.cache`
+- Removed windows compatibility due to 🔼
+
 ## installation
 [AUR package](https://aur.archlinux.org/packages/todo-bin/): `todo-bin`
 
